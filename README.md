@@ -110,6 +110,8 @@ The data used in this project is sourced from the [GearQuest Sales and Customer 
 
 The goal of this project is to enable the creation of interactive dashboards in both Tableau and Power BI. The Tableau dashboard utilizes the generated `.hyper` file, while the Power BI dashboard connects directly to the PostgreSQL database. These dashboards provide insights into the GearQuest sales pipeline and related data.
 
+---
+
 ## Next Steps
 The following steps are planned for future development:
 
