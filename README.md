@@ -2,6 +2,11 @@
 
 This project demonstrates the process of extracting, transforming, and loading (ETL) data from Excel files into a .hyper Tableau extract file. This approach facilitates seamless data integration within Tableau, enabling enhanced business intelligence visualizations and dashboard creation.
 
+## Dashboard Preview
+![GearQuest Sales Dashboard](dashboard.png)
+
+📊 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmYyZjMyNWMtYmE1OS00MjRlLWIxMzAtZjJlMmU4ZWQ4NmFhIiwidCI6IjVkNGNmODgzLTJlMzQtNGZlNi04ZDExLWE0ZWE5NTk0ZTQ0YyIsImMiOjF9)** - Explore the live dashboard on Power BI
+
 ---
 
 ## Project Structure
