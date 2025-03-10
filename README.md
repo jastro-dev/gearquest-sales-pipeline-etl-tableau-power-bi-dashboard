@@ -8,7 +8,7 @@ This project demonstrates the process of extracting, transforming, and loading (
 
 The Tableau dashboard was connected to a `.hyper` file populated by this ETL process.
 
-![GearQuest Sales Dashboard](dashboard2.png)
+![GearQuest Sales Dashboard](dashboard_2_tableau.png)
 
 ## Power BI Dashboard
 
@@ -16,7 +16,7 @@ The Tableau dashboard was connected to a `.hyper` file populated by this ETL pro
 
 The Power BI dashboard was connected to a PostgreSQL database populated by this ETL process.
 
-![GearQuest Sales Dashboard](dashboard.png)
+![GearQuest Sales Dashboard](dashboard_1_power_bi.png)
 
 ---
 
