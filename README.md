@@ -4,13 +4,17 @@ This project demonstrates the process of extracting, transforming, and loading (
 
 ## Tableau Dashboard
 
-The Tableau dashboard is currently being developed using the `.hyper` extract file.
+📊 **[View Interactive Dashboard](https://public.tableau.com/views/gearquest/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** - Explore the live dashboard on Tableau Public
+
+The Tableau dashboard was connected to a `.hyper` file populated by this ETL process.
+
+![GearQuest Sales Dashboard](dashboard2.png)
 
 ## Power BI Dashboard
 
 📊 **[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmYyZjMyNWMtYmE1OS00MjRlLWIxMzAtZjJlMmU4ZWQ4NmFhIiwidCI6IjVkNGNmODgzLTJlMzQtNGZlNi04ZDExLWE0ZWE5NTk0ZTQ0YyIsImMiOjF9)** - Explore the live dashboard on Power BI
 
-The Power BI dashboard is connected to a PostgreSQL database populated by this ETL process.
+The Power BI dashboard was connected to a PostgreSQL database populated by this ETL process.
 
 ![GearQuest Sales Dashboard](dashboard.png)
 
