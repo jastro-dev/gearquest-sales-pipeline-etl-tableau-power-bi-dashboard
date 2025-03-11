@@ -1,4 +1,11 @@
 *.log
 *.hyper
-data/raw/*
+*.csv
+*.xlsx
+*.zip
 .env
+resources
+*.pbix
+*.twb
+TODO.md
+gearquest.twb Files
